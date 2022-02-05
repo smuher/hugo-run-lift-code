@@ -1,5 +1,5 @@
 ---
-title: Tabata Row, KB, V Up
+title: 02-05-22
 date: 2022-02-05T19:18:05.985Z
 description: Hinge focus with HIIT emphasis
 ---
